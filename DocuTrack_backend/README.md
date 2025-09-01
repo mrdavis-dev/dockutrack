@@ -54,4 +54,4 @@ DocuTrack es un sistema sencillo para gestionar solicitudes y emisión de certif
 
 ---
 
-Cualquier duda, revisa el código fuente o contacta al desarrollador.
+Cualquier duda, revisar el código fuente o contactarme.
