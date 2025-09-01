@@ -1,3 +1,4 @@
+# Dockerfile para producción: build de React y servir con Nginx
 FROM node:20-alpine AS build
 WORKDIR /app
 COPY package.json package-lock.json* ./
