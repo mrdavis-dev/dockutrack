@@ -27,3 +27,5 @@ Este proyecto es una **prueba técnica Full Stack** que demuestra habilidades en
 
 > [!WARNING]
 > **Si el sitio está caído, por favor contáctame para levantarlo nuevamente.**
+<img width="770" height="555" alt="image" src="https://github.com/user-attachments/assets/3e292236-c658-4337-8618-36ea634d8c7b" />
+
